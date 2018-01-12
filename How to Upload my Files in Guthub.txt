@@ -1,0 +1,8 @@
+1. Go to the folder you want to upload in github
+2. Right click inside the folder then select "Git Bash Here"
+3. Input "git init"
+4. Input "git add ."
+5. Input "git commit -m"<author's comment>""
+6. Input "git remote add origin <address bar of repository>"
+    i.e "https://github.com/jikanime/MyJavaShortcuts.git"
+7. Input "git push -u origin master"
